@@ -1,0 +1,23 @@
+.nav-hover-find-talent:hover ~ .nav-dropdown-find-talent{
+  display: flex;
+} 
+
+.nav-dropdown-find-talent:hover{
+  display: flex;
+}
+
+.nav-hover-find-work:hover ~ .nav-dropdown-find-work{
+  display: flex;
+} 
+
+.nav-dropdown-find-work:hover{
+  display: flex;
+}
+
+.nav-hover-why-upwork:hover ~ .nav-dropdown-why-upwork{
+  display: flex;
+} 
+
+.nav-dropdown-why-upwork:hover{
+  display: flex;
+}
